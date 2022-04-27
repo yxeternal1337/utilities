@@ -1537,7 +1537,7 @@ AnimationSector:AddDropdown("Fall", AnimationsName, "Default", false, function(S
     end
 end)
 
-local CreditsSector = MiscellaneousTab:CreateSector("Credits: eternal,xfaa", "left")
+local CreditsSector = MiscellaneousTab:CreateSector("Credits: eternal,pw owners", "left")
 
 local FakeMacroSector = MiscellaneousTab:CreateSector ("Useful Shit", "left")
       FakeMacroSector:AddButton("Fake Macro (Q)", function()
